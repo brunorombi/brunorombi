@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning more about C language <br>
 - 📚 I'm a Student at Universidade Fatec Ipiranga (Currently 2st Semester) - located in São Paulo, Brazil.
 - 📫 How to reach me: +55 11 91457-5267 OR Try my email, on the buttom below ⬇️ <br>
-- <!--👨‍ ’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos)-->
+ <!--👨‍ ’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos)-->
 
 <hr>
 <div style="float: left;">
@@ -17,5 +17,5 @@
   <hr>
 <div>
 <a href="https://www.linkedin.com/in/brunorombi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="mailto:brunorombi@yahoo.com "><img src="https://img.shields.io/badge/Yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo"></a>
+<a href="https://www.linkedin.com/in/brunorombi/"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white"</a>
 </div>
