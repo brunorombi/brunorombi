@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello there 👋👋 | My name is Bruno, Welcome to my Profile!!
+- 🌱 I’m currently learning more about C language <br>
+- 📚 I'm a Student at Universidade Fatec Ipiranga (Currently 2st Semester) - located in São Paulo, Brazil.
+- 📫 How to reach me: +55 11 91457-5267 OR Try my email, on the buttom below ⬇️ <br>
+- <!--👨‍ ’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos)-->
 
-<!--
-**brunorombi/brunorombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<div style="float: left;">
+<a href="https://github.com/brunorombi
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunorombi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22/%3E
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorombi&layout=compact&langs_count=7&theme=algolia%22/%3E
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <hr>
+ <br><br>
+  <hr>
+<div>
+<a href="https://www.linkedin.com/in/brunorombi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="mailto:brunorombi@yahoo.com "><img src="https://img.shields.io/badge/Yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo"></a>
+</div>
