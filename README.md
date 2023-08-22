@@ -1,7 +1,7 @@
 ## Hello there 👋👋 | My name is Bruno, Welcome to my Profile!!
 - 🌱 I’m currently learning more about JavaScript language <br>
 - 📚 I'm a Student at Universidade Fatec Ipiranga (Currently 3st Semester) - located in São Paulo, Brazil.
-- 📫 How to reach me: +55 11 91457-5267 OR Try my email, on the buttom below ⬇️ <br>
+- 📫 How to reach me: +55 11 91457-5267 OR Try my email, on the button below ⬇️ <br>
  <!--👨‍ ’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos)-->
 
 <hr>
