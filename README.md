@@ -6,19 +6,17 @@
 
 <hr>
 <div style="float: left;">
-<a href="https://github.com/brunorombi"</a>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunorombi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22/%3E"</img>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorombi&layout=compact&langs_count=7&theme=algolia%22/%3E"</img>
+<a href="https://github.com/brunorombi">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunorombi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorombi&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
 
   <hr>
  <br><br>
-  <hr>
 
-<div align="center">
-<a href="mailto:felipeffazandebrito@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/felipefazan/%22%3E<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<div>
+<a href="mailto:brunorombi2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/brunorombi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
 
