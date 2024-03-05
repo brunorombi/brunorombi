@@ -1,5 +1,5 @@
 ## Hello there 👋👋 | My name is Bruno, Welcome to my Profile!!
-- 🌱 I’m currently learning more about Front-end <br>
+- 🌱 I’m currently learning more about Front-end. <br>
 - 📚 I'm a Student at Fatec São Paulo (Currently 4st Semester) - São Paulo, Brazil.
 - 📫 How to reach me: +55 11 91457-5267 OR Try my email, on the button below ⬇️ <br>
  <!--👨‍ ’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos)-->
